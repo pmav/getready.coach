@@ -1,0 +1,25 @@
+baseURL: https://getready.coach/
+
+title: Get Ready • Coach
+theme: ["PaperMod"]
+mainsections: []
+defaultContentLanguage: pt
+
+languages:
+  pt:
+    menu:
+      main:
+        - name: Blog
+          url: posts
+        - name: Linked In
+          url: https://www.linkedin.com/in/pedroverruma/
+        - name: Twitter
+          url: https://twitter.com/pmav
+
+
+params:
+  defaultTheme: light
+  disableThemeToggle: true
+  author: Pedro Verruma
+  ShowShareButtons: false
+  ShowReadingTime: false
